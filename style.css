@@ -1,0 +1,23 @@
+
+* {
+text-align: center;
+}
+h1 {
+    color: blue;
+}
+.msgRed {
+    color: red;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.msgGreen {
+    color: green;
+}
+
+form input {
+    width: 300px;
+}
+
+
+
